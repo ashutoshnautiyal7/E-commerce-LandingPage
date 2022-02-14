@@ -1,0 +1,14 @@
+
+leading --------------for the space between the lines
+inline-block------------    will allow you to give margin from above element and not wrt to whole display
+trackking ----------for letter spacing
+
+
+//what does h-screen do?
+
+while you are trying to fix your navbar -=== inset-0// this sets all top bottom left right 0
+
+//max-w-lg mx-auto  ?
+
+space-x-      ---is generally used to space around in your flexbox ---here navbar
+
